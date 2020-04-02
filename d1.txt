@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Detyre </title>
+	</head>
+	<body>
+		<h1> SKILLS </h1>
+		<p>Technical Skills: Html/Html5, Css/Css3, Javascript/Jquery, Php, Asp.net, Bootstrap Structure</p>
+		<p>Operating Systems: Windows 7, Windows 8, Linux, Android</p>
+		<p>Applications: Interchange ecommerce, eDirectory, Joomla, OsCommerce, ZenCart, WordPress</p>
+		<h2>EXPERIENCE</h2>
+		<p><em>Web & Graphic Designer (MYM Web Design, 2011 – Present)</em></p>
+		<p>Suspendisse dui purus, scelerisque at, vulputate vitae, pretiummattis, nunc. Maurisegetneque at
+			semvenenatiseleifend.</p>
+		<ul> 
+			<li>Nunc lacus metus, posuereeget</li>
+			<li>Laciniaeu, variusquislibero</li>
+			<li>Aliquamnonummyadipiscingaugue</li>
+		</ul>
+		<ol>
+			<li>Loremipsum dolor sit amet</li>
+			<li>Loremipsum dolor sit amet</li>
+			<li>Loremipsum dolor sit amet</li>
+		</ol>
+		<ul>
+			<li>Consectetueradipiscingelit</li>
+			<li>Maecenas portitor</li>
+			<li>Consectetueradipiscingelit</li>
+			<li>Consectetueradipiscingelit</li>
+		</ul>
+		<p><b>Creative Web Designer</b><em>(Visual Fusion Web Design, 2009 - 2011)</em></p>
+		<p>Some one said:</p>
+			<pre>	"Cras non magna vel ante adipiscingrhoncus. Vivamus a mi. MorbinequeMaecenaspedepurus, tristique ac,
+	tempuseget, egestasquis, mauris. Curabitur"
+			</pre>
+		<h2>Some links</h2>
+		<a href = "https://www.google.com/">www.google.com/</a>
+		<pre><a href = "https://www.ubt-uni.net/sq/ballina/">www.ubt-uni.net/sq/ballina/</a>
+		</pre>
+	</body>
+</html>
